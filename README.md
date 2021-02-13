@@ -5,11 +5,11 @@ I work in support of civil engineering (spatial data, automation, BIM, etc)
 
 - What I'm glad I know:
   - **Django** (my "great discovery" in Python)
-  - SQL (prefer **Postgresq**)
+  - **SQL** (prefer **Postgresq**)
   - **HTML** & **CSS** (enough to work with it)
-  - VBA (sometimes there is just no need to reinvent the wheel)
-  - R (just for statistics; I'm not great fan)
-  - I wish I could put JS here, but my level is... let's say "basic". Maybe someday...
+  - **VBA** (sometimes there is just no need to reinvent the wheel)
+  - **R** (just for statistics; I'm not great fan)
+  - I wish I could put **JS** here, but my level is... let's say "basic". Maybe someday...
 
 
 <!---
