@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Kris
 I work in support of civil engineering (spatial data, automation, BIM, etc)
-- 👀 I’m interested in Data Science - actualy I'm a student of postgraduate studies in Universyty of Science and Technology (known as AGH - Kraków, Poland) 
+- 👀 I’m interested in **Data Science** - actualy I'm a student of postgraduate studies in Universyty of Science and Technology (known as AGH in Kraków, Poland) 
 - 🌱 I’m currently learning ... **Python**! I've known it for a few years, but each project gives me a chance to do something faster, better or just in a new way.
 
 - What I'm glad I know:
