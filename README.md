@@ -5,9 +5,9 @@
 
 - What I'm glad I know:
 - Django (my "great discovery" in Python)
-  SQL (prefer Postgresq)
-  HTML & CSS (enough to work with it)
-  I wish I could put JS here, but my level is... let's say "basic". Maybe someday...
+		SQL (prefer Postgresq)
+		HTML & CSS (enough to work with it)
+		I wish I could put JS here, but my level is... let's say "basic". Maybe someday...
 
 
 <!---
