@@ -10,6 +10,7 @@ I work in support of civil engineering (spatial data, automation, BIM, etc)
   - **VBA** (sometimes there is just no need to reinvent the wheel)
   - **R** (just for statistics; I'm not great fan)
   - I wish I could put **JS** here, but my level is... let's say "basic". Maybe someday...
+  - ... and **GIT** of course
 
 
 <!---
